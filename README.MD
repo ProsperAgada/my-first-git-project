@@ -14,3 +14,6 @@ git commit -m "commit message"
 how to authenticate git with your remote repository
 point git to our remote repository
 how to push to a branch on our remote repository
+
+git status
+git log
