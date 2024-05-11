@@ -17,3 +17,15 @@ how to push to a branch on our remote repository
 
 git status
 git log
+
+git remote add origin <repository_URL>
+git remote -v 
+
+branches 
+git branch
+git checkout 
+git merge
+git statch
+git pull 
+git clone
+git fetch
