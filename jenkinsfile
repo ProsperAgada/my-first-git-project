@@ -1,4 +1,16 @@
 pipeline{
     agent any
     node=node1
+    language
+    stages{
+        stage{
+                environment=name
+                class=devops
+            step{
+                script{
+                    echo 'welcome'
+                }
+            }
+        }
+    }
 }
